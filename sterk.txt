@@ -1,5 +1,5 @@
 Yeah, we tried take it for granted especially for this Covid-19 situation. But before the new normal begining, i hope i can realize my target.
-- Learning Adobe Illustrator (Advanced)
+- Learn Adobe Illustrator (Advanced)
 - Learning Adobe XD (Beginner)
 - Explore Codeigniter 4
 - Learning Android Studio (Beginner)
@@ -7,4 +7,5 @@ Yeah, we tried take it for granted especially for this Covid-19 situation. But b
 - Learning Docker (Beginner)
 - Developing using Git & Github.
 - Keeping make content for Malang Culinary Lounge min. 5 contents a week.
+- Learning about Windows Share Point
 - Keep up a good work. Keep up new skills :)
